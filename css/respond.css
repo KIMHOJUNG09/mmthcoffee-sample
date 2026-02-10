@@ -325,4 +325,10 @@
     .quick-menu-list>li>a img {
         width: 24px;
     }
+
+    .popup {
+        width: 100px;
+        height: 100px;
+        background-color: pink;
+    }
 }
